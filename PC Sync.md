@@ -3,7 +3,6 @@
 
 ---
 
-<h1 id="pc-sync">PC Sync</h1>
 <h3 id="description">Description</h3>
 <p>Have 2 computers but all the data is saved</p>
 <h3 id="how-it-should-work">How it should work</h3>
